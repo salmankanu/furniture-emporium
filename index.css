@@ -1,0 +1,18 @@
+body {
+  background-color: grey;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+.button-color {
+  background-color: green;
+  color: white;
+  padding: 12pt;
+  border: none;
+  border-radius: 10px;
+  font-size: 20px;
+}
+.card {
+  background-color: white;
+}
+.price {
+  color: green;
+}
